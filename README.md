@@ -1,2 +1,2 @@
-# hwse_project_jakob_gridl_minesweeper
+# Minesweeper
 Provide a game where players can play Minesweeper.
